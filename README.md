@@ -1,5 +1,5 @@
-# Branch 1
+# Branch master
 
 ## CDEV_36
 Repo for homework HW-03
-* 1st branch read.me file
+* master branch read.me file
